@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">A4_JS_ScreenLanguageSupport</string>
+<string name="hello_world">सभी का स्वागत</string>
+<string name="action_settings">सेटिंग्स</string>
+<string name="greeting_message">सभी का स्वागत</string>
+<string name="hint_message">अपना नाम दर्ज करें</string>
+<string name="button_label">जमा करें</string>
+<string name="selected_language">हिंदी</string>
+
+
+</resources>
